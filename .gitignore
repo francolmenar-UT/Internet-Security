@@ -3,5 +3,5 @@ venv/
 VM/
 .DS_Store
 __pycache__
-.pcap
-.txt
+*.pcap
+*.txt
